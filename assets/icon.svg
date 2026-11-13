@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="116" fill="#1d1830"/>
+  <circle cx="256" cy="256" r="196" fill="#2a2347"/>
+  <g transform="translate(-64 50) scale(3.2)">
+  <path d="M54 54L48 14l40 20z" fill="#ff9a3c" stroke="#ff9a3c" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M146 54l6-40-40 20z" fill="#ff9a3c" stroke="#ff9a3c" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M58 44l-1-17 14 8z" fill="#ff8fa3"/><path d="M142 44l1-17-14 8z" fill="#ff8fa3"/>
+  <!-- kepala -->
+  <ellipse cx="100" cy="72" rx="55" ry="45" fill="#ff9a3c"/>
+  <path d="M100 28v13M89 30l2 11M111 30l-2 11" stroke="#e5731a" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="100" cy="88" rx="25" ry="16" fill="#ffe6c9"/>
+  <!-- mata melirik ke uang -->
+  <ellipse cx="78" cy="68" rx="8" ry="10" fill="#2a1a14"/><ellipse cx="122" cy="68" rx="8" ry="10" fill="#2a1a14"/>
+  <circle cx="76" cy="72" r="3" fill="#fff"/><circle cx="120" cy="72" r="3" fill="#fff"/>
+  <path d="M95 81h10l-5 6z" fill="#ff6b8b"/>
+  <path d="M100 87q-5 7-12 3M100 87q5 7 12 3" stroke="#2a1a14" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M72 84L40 78M72 90L40 95M128 84l32-6M128 90l32 5" stroke="#ffe6c9" stroke-width="2" stroke-linecap="round"/>
+</g>
+</svg>
